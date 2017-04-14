@@ -1,0 +1,15 @@
+{
+  "name": "ecur-rest",
+  "version": "1.0.0",
+  "description": "ECUR rest api",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.4",
+    "nodemon": "^1.11.0"
+  }
+}
